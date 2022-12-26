@@ -1,0 +1,18 @@
+# + Hello there. 👋 +
+
+Just a programmer, that's all.
+
+## + More about me
+- *Personal Talent: Programming, mainly.*
+
+## + Additional Information
+- *Pronouns: They/Him*
+- *Jobs: Gamebanana Moderator & Manager.*
+- *Currently Working on: Nothing really.*
+
+### + Contacts
+- *Discord: Fruitsy#3809*
+- *Twitter: https://twitter.com/FruitsyOG*
+- *Gamebanana: https://gamebanana.com/members/1801730*
+
+Thanks for visiting my profile? :]
