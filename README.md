@@ -7,7 +7,6 @@ Just a programmer, that's all.
 
 ## + Additional Information
 - *Pronouns: They/Him*
-- *Jobs: Gamebanana Moderator & Manager.*
 - *Currently Working on: Nothing really.*
 
 ### + Contacts
