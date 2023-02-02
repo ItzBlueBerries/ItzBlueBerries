@@ -11,7 +11,6 @@ Just a programmer, that's all.
 
 ### + Contacts
 - *Discord: Fruitsy#3809*
-- *Twitter: https://twitter.com/FruitsyOG*
 - *Gamebanana: https://gamebanana.com/members/1801730*
 
 Thanks for visiting my profile? :]
