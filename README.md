@@ -7,7 +7,7 @@ Just a programmer, that's all.
 
 ## + Additional Information
 - *Pronouns: They/Him*
-- *Currently Working on: Nothing at the moment.*
+- *Currently Working on: Various things.*
 
 ### + Contacts
 - *Discord: Fruitsy#3809*
