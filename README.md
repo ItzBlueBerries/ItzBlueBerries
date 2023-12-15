@@ -1,6 +1,6 @@
 # <code> ✨ F.R.U.I.T.S.Y ✌ </code>
 
-## <code> ℹ A.B.O.U.T ℹ </code>
+## <code> About Me </code>
 
 - #### **He/Him, They/Them**
 - #### **Very Much Introverted.**
@@ -20,6 +20,6 @@
 - #### **fruitsyog (Discord Username) (Less likely to accept random friend request)**
 - #### ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-### <code> Extras </code>
+## <code> Extras </code>
 
 ![Fruitsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzBlueBerries&show_icons=true&theme=github_dark_dimmed)
