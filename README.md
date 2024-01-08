@@ -2,7 +2,6 @@
 
 ## <code> About Me </code>
 
-- #### **He/Him, They/Them**
 - #### **Very Much Introverted.**
 - #### **Hobbyist Programmer.**
 - #### **Hobbyist Digital Artist.**
